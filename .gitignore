@@ -16,7 +16,14 @@
 *.cb2
 .*.lb
 *.pdf
+!slika.pdf
 
+*.zip
+Thumbs.db
+
+# Python
+__pycache__
+*.pyc
 
 ## Intermediate documents:
 *.dvi
